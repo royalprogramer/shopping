@@ -1,0 +1,74 @@
+
+.login-container,#signup-container,.forgot-container{
+  background-color: antiquewhite ;
+  padding: 30px;
+  margin: auto;
+  border-radius: 10px;
+  width: 500px;
+}
+#signup-container{
+  display: flex;
+  flex-wrap: wrap;
+  width: 60%;
+
+}
+#signup-container>div{
+  margin: 5px;
+  width: 45%;
+}
+/* Full-width input fields */
+#signup-container>div>input[type=text], input[type=password] {
+  width: 95%;
+  padding: 8px;
+  margin: 5px ;
+  display: inline-block;
+  border: none;
+ 
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+.login-container>input,.forgot-container>input {
+  width: 95%;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  margin: 5px 0;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 17px;
+  line-height: 20px;
+  text-decoration: none; /* remove underline from anchors */
+}
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.login-container>a>img{
+  background-color: #ea205d;
+  border-radius: 100%;
+}
+.btn{
+  color: #fff;
+  background-color: #2b6777;
+  width: 45%;
+  padding: 10px;
+}
+.btn:hover{
+  background-color: #c8d8e4;
+  color: #2b6777;
+}

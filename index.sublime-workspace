@@ -1,0 +1,740 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inline"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"fl",
+				"flex-wrap"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"CON",
+				"container"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"sp",
+				"Specification"
+			],
+			[
+				"boder",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"yellow",
+				"yellowgreen"
+			],
+			[
+				"yello",
+				"lightgoldenrodyellow"
+			],
+			[
+				"co",
+				"col-sm-4"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"produt",
+				"product-img"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"gree",
+				"seagreen"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"whi",
+				"whitesmoke"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"he",
+				"max-height"
+			],
+			[
+				"so",
+				"snow"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"sk",
+				"lightskyblue"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"sky",
+				"lightskyblue"
+			],
+			[
+				"na",
+				"navy"
+			],
+			[
+				"bt",
+				"button"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"hidde",
+				"hidden-lg"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"h",
+				"smooth"
+			],
+			[
+				"min-h",
+				"min-width"
+			],
+			[
+				"heigh",
+				"min-height"
+			],
+			[
+				"i",
+				"inline-flex"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"fony",
+				"font-style"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"w",
+				"whitesmoke"
+			],
+			[
+				"whit",
+				"ghostwhite"
+			],
+			[
+				"white",
+				"antiquewhite"
+			],
+			[
+				"clo",
+				"color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"col",
+				"col-xs-4"
+			],
+			[
+				"o",
+				"border"
+			],
+			[
+				"gl",
+				"glyphicon"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"ol",
+				"olive"
+			],
+			[
+				"bl",
+				"blueviolet"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"mob",
+				"mobile"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"reg",
+				"register"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"regis",
+				"register-div"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"table",
+				"table-border"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch"
+			],
+			[
+				"mysql_fetch_",
+				"mysql_fetch_assoc"
+			],
+			[
+				"session_de",
+				"session_destroy"
+			],
+			[
+				"session_u",
+				"session_unset"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"an",
+				"animation-direction\tproperty"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"sec",
+				"select\tTag"
+			],
+			[
+				"spa",
+				"white-space\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"car",
+				"car-img"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"mysqli_",
+				"mysqli_connect"
+			],
+			[
+				"bloo",
+				"blooddonor"
+			],
+			[
+				"bord",
+				"border-left\tproperty"
+			],
+			[
+				"font-siz",
+				"font-size\tproperty"
+			],
+			[
+				"bol",
+				"bolder\tfont-weight"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"dr",
+				"dropdown-menu"
+			],
+			[
+				"mag",
+				"margin\tproperty"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"menu",
+				"menu_list"
+			],
+			[
+				"cla",
+				"Class"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"aling",
+				"align-self\tproperty"
+			],
+			[
+				"nav",
+				"navbar"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/New Project/navbar.php",
+		"/C/xampp/htdocs/New Project/cdp.css",
+		"/C/xampp/htdocs/New Project/cdp.php",
+		"/C/xampp/htdocs/New Project/wishlist.php",
+		"/C/xampp/htdocs/New Project/foot.php",
+		"/C/xampp/htdocs/New Project/login.php",
+		"/C/xampp/htdocs/New Project/login.css",
+		"/C/xampp/htdocs/Blood Donor/client/index.php",
+		"/C/xampp/htdocs/Blood Donor/admin/logout.php",
+		"/D/Shift/Local Disk D/web/BD5/login_signup.html",
+		"/D/Shift/HTM/login.html",
+		"/D/Shift/Local Disk D/web/BD3/dashboard.html",
+		"/D/Shift/Local Disk D/web/BD3/dashboard.css",
+		"/C/xampp/htdocs/New Project/index.php",
+		"/D/Shift/Local Disk D/web/BD2/blooddonor.html",
+		"/D/Shift/HTM/royalprogramer.css",
+		"/D/Shift/HTM/royalprogramer.html",
+		"/C/xampp/htdocs/New Project/css/cdp.php",
+		"/C/xampp/htdocs/New Project/css/cart",
+		"/C/xampp/htdocs/New Project/css/login.php",
+		"/D/Shift/Local Disk D/web/BD3/index.php",
+		"/C/xampp/htdocs/Blood Donor/admin/foot.php",
+		"/C/xampp/htdocs/Blood Donor/admin/head.php",
+		"/C/xampp/htdocs/Blood Donor/admin/nav.php",
+		"/C/Users/royal/Desktop/Web Class/Blood Donor/homepage.html",
+		"/C/Users/royal/Desktop/New Project/index.html",
+		"/C/xampp/htdocs/Blood Donor/client/fact.php",
+		"/C/xampp/htdocs/Blood Donor/client/save.php",
+		"/C/xampp/htdocs/Blood Donor/admin/dashboard.php",
+		"/C/xampp/htdocs/Blood Donor/admin/index.php",
+		"/C/xampp/htdocs/Blood Donor/client/nav.php",
+		"/C/xampp/htdocs/Blood Donor/index.php",
+		"/H/Others/mp3",
+		"/C/Users/royal/Desktop/checkreview.html",
+		"/D/Sonu/Qidian/Conf.json",
+		"/D/Shift/HTM/form.html",
+		"/C/xampp/htdocs/recycle bin/save.php",
+		"/C/xampp/htdocs/Blood Donor/client/connection.php",
+		"/C/xampp/htdocs/Blood Donor/client/head.php",
+		"/C/xampp/htdocs/recycle bin/register-donor.php",
+		"/C/xampp/htdocs/Blood Donor/head.php",
+		"/C/xampp/htdocs/Blood Donor/foot.php",
+		"/C/xampp/htdocs/Blood Donor/fact.php",
+		"/C/xampp/htdocs/Blood Donor/profile.php",
+		"/C/xampp/htdocs/Blood Donor/dashboard.php",
+		"/C/xampp/htdocs/Blood Donor/forgot-password.php",
+		"/C/xampp/htdocs/Blood Donor/request-blood.php",
+		"/C/xampp/htdocs/Blood Donor/register-donor.php",
+		"/C/xampp/htdocs/Blood Donor/connection.php",
+		"/C/xampp/htdocs/Blood Donor/nav.php",
+		"/F/jsc1.html",
+		"/D/Shift/Local Disk D/web/BD5/home-page.html",
+		"/D/Shift/Local Disk D/web/BD5/homepage.css",
+		"/D/Shift/Local Disk D/classes/c1.html",
+		"/C/xampp/htdocs/request-blood.php",
+		"/C/xampp/htdocs/register-donor.php",
+		"/C/Users/royal/Desktop/blogger.html",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/Blood Donor/post.php",
+		"/C/xampp/htdocs/Blood Donor/save.php",
+		"/C/xampp/htdocs/Blood Donor/register-donor.html",
+		"/C/xampp/htdocs/Blood Donor/index.html",
+		"/C/xampp/htdocs/Blood Donor/request-blood.html",
+		"/C/xampp/htdocs/rays/form-submit.php",
+		"/C/xampp/htdocs/rays/index.php",
+		"/C/xampp/htdocs/head.php",
+		"/D/Shift/Local Disk D/classes/calculator.html",
+		"/C/xampp/htdocs/form-submit.php",
+		"/C/xampp/htdocs/Blood Donor/register.php",
+		"/C/Users/royal/Desktop/Blood Donor/register-donor.html",
+		"/C/Users/royal/Desktop/Blood Donor/homepage.html",
+		"/C/Users/royal/AppData/Local/Temp/Temp1_neumorphism-ui-v1.0.0.zip/package.json",
+		"/D/Shift/Local Disk D/classes/form2.html",
+		"/C/xampp/htdocs/foot.php",
+		"/C/xampp/htdocs/index.html",
+		"/C/xampp/htdocs/nav.php",
+		"/C/Users/royal/Desktop/Blood Donor/php/registration.html",
+		"/C/xampp/htdocs/form-submit.html",
+		"/F/jio.html",
+		"/F/jio.xml",
+		"/C/Users/royal/Desktop/blog.html",
+		"/C/Users/royal/Desktop/jio.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

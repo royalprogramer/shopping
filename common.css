@@ -1,0 +1,65 @@
+
+/*review star name fa-star-o fa-star fa-star-half fa-star-half-o */
+.flex-container{
+	display: flex;
+	flex-wrap: wrap;
+	padding: 5px;
+	font-family: caliber;
+}
+
+.item-box{
+	max-width: 200px; 
+	max-height: 350px;
+	margin: 16px;
+	text-align: center;
+	border: .5px solid #f2f2f2;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	position: relative;
+}
+.item-img{
+	width: 99%; height: auto;
+}
+
+.item-desc{
+	padding: 5px;
+	font: 18px caliber;
+}
+.strike-amt{
+	color: #ea205d;
+	text-align: left ;:
+
+}
+.wishlist{
+	float: right;
+	color: #ea205d;
+	text-align: right;
+}
+.discount-percentage{
+	color: yellowgreen;
+	text-align: right;
+	margin-left: 10px;
+}
+.sell-amt{
+	color: seagreen;
+}
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+}
+
+.pagination a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+/*rgb(27, 171, 110);*/
+.pincode{
+	width: 200px; height: 40px;
+	overflow: ;
+	border: .5px solid #e0205d;
+	border-radius: 5px;
+}
